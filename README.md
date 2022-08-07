@@ -1,4 +1,4 @@
-### Hola, I'm Sai KiranKumar 👋
+### Hola, I'm Sai Kiran Kumar 👋
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning more about javascript
