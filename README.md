@@ -1,6 +1,6 @@
 ### Hola, I'm Sai Kiran Kumar 👋
 
- - 🔭 I’m currently working on Frontend Development
+ - 🔭 I’m currently working as a Frontend Developer
  - 🌱 I’m currently learning more about React-Native
  - 👯 I’m looking to collaborate on Github, Instagram.
  - 🤔 I’m looking for help with Node.js
