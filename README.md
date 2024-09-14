@@ -7,4 +7,5 @@
  - 💬 Ask me about HTML, CSS, Javascript, React, React_native, and Redux
  - 📫 How to reach me: Linkedin-Sai Kiran Kumar
  - 😄 Pronouns: He/His
- - ⚡ Fun fact: I like to spend time with friends and want to travel all over the world. 
+ - ⚡ Fun fact: I like to spend time with friends and want to travel all over the world.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikiranVulla)](https://github.com/anuraghazra/github-readme-stats)
