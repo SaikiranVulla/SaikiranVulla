@@ -9,4 +9,4 @@
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: I like to spend time with friends and want to travel all over the world.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikiranVulla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikiranVulla&show_icons=true&theme=radical&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
